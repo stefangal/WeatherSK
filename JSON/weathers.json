@@ -1,242 +1,88 @@
 {
-    "2019-10-14 13:11": {
-        "Bratislava": {
-            "temp": 19.25,
-            "pressure": 1020,
-            "humidity": 60,
-            "temp_min": 15.56,
-            "temp_max": 21.11
-        },
-        "Kosice": {
-            "temp": 19.01,
-            "pressure": 1019,
-            "humidity": 68,
-            "temp_min": 16.67,
-            "temp_max": 21.11
-        },
-        "Presov": {
-            "temp": 19.93,
-            "pressure": 1021,
-            "humidity": 52,
-            "temp_min": 17.78,
-            "temp_max": 21
-        },
-        "Zilina": {
-            "temp": 20.16,
-            "pressure": 1020,
-            "humidity": 64,
-            "temp_min": 18.33,
-            "temp_max": 22.78
-        },
-        "Banska Bystrica": {
-            "temp": 20.22,
-            "pressure": 1022,
-            "humidity": 59,
-            "temp_min": 19,
-            "temp_max": 22.78
-        },
-        "Nitra": {
-            "temp": 21.26,
-            "pressure": 1020,
-            "humidity": 56,
-            "temp_min": 20,
-            "temp_max": 23.89
-        },
-        "Trnava": {
-            "temp": 20.43,
-            "pressure": 1020,
-            "humidity": 56,
-            "temp_min": 19.44,
-            "temp_max": 22
-        },
-        "Trencin": {
-            "temp": 20.73,
-            "pressure": 1020,
-            "humidity": 56,
-            "temp_min": 18.89,
-            "temp_max": 22.78
-        },
-        "Martin": {
-            "temp": 5.84,
-            "pressure": 1019,
-            "humidity": 100,
-            "temp_min": 3.89,
-            "temp_max": 8
-        },
-        "Poprad": {
-            "temp": 18.17,
-            "pressure": 1021,
-            "humidity": 63,
-            "temp_min": 15.56,
-            "temp_max": 20.56
-        },
-        "Prievidza": {
-            "temp": 20.05,
-            "pressure": 1022,
-            "humidity": 59,
-            "temp_min": 19,
-            "temp_max": 22
-        },
-        "Zvolen": {
-            "temp": 19.5,
-            "pressure": 1022,
-            "humidity": 59,
-            "temp_min": 16.11,
-            "temp_max": 22.78
-        },
-        "Povazska Bystrica": {
-            "temp": 20.12,
-            "pressure": 1020,
-            "humidity": 64,
-            "temp_min": 18.89,
-            "temp_max": 22
-        },
-        "Michalovce": {
-            "temp": 20.09,
-            "pressure": 1021,
-            "humidity": 52,
-            "temp_min": 18.89,
-            "temp_max": 21
-        },
-        "Nove Zamky": {
-            "temp": 21.82,
-            "pressure": 1020,
-            "humidity": 56,
-            "temp_min": 20.56,
-            "temp_max": 23.89
-        },
-        "Spisska Nova Ves": {
-            "temp": 19.05,
-            "pressure": 1021,
-            "humidity": 63,
-            "temp_min": 15.56,
-            "temp_max": 21
-        },
-        "Komarno": {
-            "temp": 21.95,
-            "pressure": 1020,
-            "humidity": 46,
-            "temp_min": 21,
-            "temp_max": 22.78
-        },
-        "Hurbanovo": {
-            "temp": 22.87,
-            "pressure": 1020,
-            "humidity": 56,
-            "temp_min": 22,
-            "temp_max": 23.89
-        },
-        "Levice": {
-            "temp": 21.78,
-            "pressure": 1022,
-            "humidity": 59,
-            "temp_min": 19,
-            "temp_max": 23.89
-        },
-        "Bardejov": {
-            "temp": 20.2,
-            "pressure": 1021,
-            "humidity": 52,
-            "temp_min": 17.78,
-            "temp_max": 21.11
-        },
-        "Liptovsky Mikulas": {
-            "temp": 19.18,
-            "pressure": 1021,
-            "humidity": 63,
-            "temp_min": 15.56,
-            "temp_max": 22.78
-        },
-        "Lucenec": {
-            "temp": 16.95,
-            "pressure": 1022,
-            "humidity": 59,
-            "temp_min": 15.56,
-            "temp_max": 19
-        },
-        "Piestany": {
-            "temp": 20.72,
-            "pressure": 1020,
-            "humidity": 56,
-            "temp_min": 20,
-            "temp_max": 22.22
-        },
-        "Ruzomberok": {
-            "temp": 20.04,
-            "pressure": 1022,
-            "humidity": 59,
-            "temp_min": 19,
-            "temp_max": 22.78
-        },
-        "Trebisov": {
-            "temp": 20.07,
-            "pressure": 1021,
-            "humidity": 52,
-            "temp_min": 18.89,
-            "temp_max": 21
-        },
-        "Cadca": {
-            "temp": 20.06,
-            "pressure": 1020,
-            "humidity": 64,
-            "temp_min": 18.33,
-            "temp_max": 22.78
-        },
-        "Rimavska Sobota": {
-            "temp": 16.11,
-            "pressure": 1026,
-            "humidity": 65,
-            "temp_min": 16.11,
-            "temp_max": 16.11
-        },
-        "Dubnica nad Vahom": {
-            "temp": 20.62,
-            "pressure": 1020,
-            "humidity": 64,
-            "temp_min": 18.89,
-            "temp_max": 22.78
-        },
-        "Pezinok": {
-            "temp": 19.54,
-            "pressure": 1020,
-            "humidity": 60,
-            "temp_min": 15.56,
-            "temp_max": 22
-        },
-        "Dunajska Streda": {
-            "temp": 20.52,
-            "pressure": 1020,
-            "humidity": 60,
-            "temp_min": 19.44,
-            "temp_max": 22
-        },
-        "Vranov nad Toplou": {
-            "temp": 20.07,
-            "pressure": 1021,
-            "humidity": 52,
-            "temp_min": 18.89,
-            "temp_max": 21
-        },
-        "Partizanske": {
-            "temp": 20.48,
-            "pressure": 1020,
-            "humidity": 56,
-            "temp_min": 19,
-            "temp_max": 22.78
-        },
-        "Sala": {
-            "temp": 8.67,
-            "pressure": 1006,
-            "humidity": 87,
-            "temp_min": 8,
-            "temp_max": 9.44
-        },
-        "Hlohovec": {
-            "temp": 20.37,
-            "pressure": 1020,
-            "humidity": 56,
-            "temp_min": 19.44,
-            "temp_max": 22
-        }
+    "2019-10-14 14:24": {
+        "Bratislava": [
+            {
+                "temp": 19.98,
+                "pressure": 1019,
+                "humidity": 60,
+                "temp_min": 15,
+                "temp_max": 22.22
+            },
+            [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "clear sky",
+                    "icon": "01d"
+                }
+            ],
+            {
+                "speed": 4.6,
+                "deg": 140
+            }
+        ],
+        "Kosice": [
+            {
+                "temp": 19.62,
+                "pressure": 1018,
+                "humidity": 64,
+                "temp_min": 17.22,
+                "temp_max": 22.78
+            },
+            [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "clear sky",
+                    "icon": "01d"
+                }
+            ],
+            {
+                "speed": 2.6,
+                "deg": 110
+            }
+        ],
+        "Hurbanovo": [
+            {
+                "temp": 24.19,
+                "pressure": 1019,
+                "humidity": 47,
+                "temp_min": 24,
+                "temp_max": 24.44
+            },
+            [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "clear sky",
+                    "icon": "01d"
+                }
+            ],
+            {
+                "speed": 4.1,
+                "deg": 170
+            }
+        ],
+        "Nitra": [
+            {
+                "temp": 22.08,
+                "pressure": 1019,
+                "humidity": 53,
+                "temp_min": 20.56,
+                "temp_max": 24.44
+            },
+            [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "clear sky",
+                    "icon": "01d"
+                }
+            ],
+            {
+                "speed": 4.6,
+                "deg": 150
+            }
+        ]
     }
 }
