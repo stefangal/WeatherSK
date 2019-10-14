@@ -1,88 +1,43 @@
 {
-    "2019-10-14 14:24": {
-        "Bratislava": [
-            {
-                "temp": 19.98,
-                "pressure": 1019,
-                "humidity": 60,
-                "temp_min": 15,
-                "temp_max": 22.22
-            },
-            [
-                {
-                    "id": 800,
-                    "main": "Clear",
-                    "description": "clear sky",
-                    "icon": "01d"
-                }
-            ],
-            {
-                "speed": 4.6,
-                "deg": 140
-            }
-        ],
-        "Kosice": [
-            {
-                "temp": 19.62,
-                "pressure": 1018,
-                "humidity": 64,
-                "temp_min": 17.22,
-                "temp_max": 22.78
-            },
-            [
-                {
-                    "id": 800,
-                    "main": "Clear",
-                    "description": "clear sky",
-                    "icon": "01d"
-                }
-            ],
-            {
-                "speed": 2.6,
-                "deg": 110
-            }
-        ],
-        "Hurbanovo": [
-            {
-                "temp": 24.19,
-                "pressure": 1019,
-                "humidity": 47,
-                "temp_min": 24,
-                "temp_max": 24.44
-            },
-            [
-                {
-                    "id": 800,
-                    "main": "Clear",
-                    "description": "clear sky",
-                    "icon": "01d"
-                }
-            ],
-            {
-                "speed": 4.1,
-                "deg": 170
-            }
-        ],
-        "Nitra": [
-            {
-                "temp": 22.08,
-                "pressure": 1019,
-                "humidity": 53,
-                "temp_min": 20.56,
-                "temp_max": 24.44
-            },
-            [
-                {
-                    "id": 800,
-                    "main": "Clear",
-                    "description": "clear sky",
-                    "icon": "01d"
-                }
-            ],
-            {
-                "speed": 4.6,
-                "deg": 150
-            }
-        ]
-    }
+    "coord": {
+        "lon": 18.09,
+        "lat": 48.31
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 22.44,
+        "pressure": 1019,
+        "humidity": 53,
+        "temp_min": 20.56,
+        "temp_max": 23.89
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 6.2,
+        "deg": 140
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1571058342,
+    "sys": {
+        "type": 1,
+        "id": 7051,
+        "message": 0.0082,
+        "country": "SK",
+        "sunrise": 1571029493,
+        "sunset": 1571068937
+    },
+    "timezone": 7200,
+    "id": 3058531,
+    "name": "Nitra",
+    "cod": 200
 }
