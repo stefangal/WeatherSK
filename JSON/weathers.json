@@ -1,43 +1,43 @@
 {
     "coord": {
-        "lon": 18.09,
-        "lat": 48.31
+        "lon": 18.2,
+        "lat": 47.88
     },
     "weather": [
         {
-            "id": 800,
-            "main": "Clear",
-            "description": "clear sky",
-            "icon": "01d"
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04d"
         }
     ],
     "base": "stations",
     "main": {
-        "temp": 22.44,
-        "pressure": 1019,
-        "humidity": 53,
-        "temp_min": 20.56,
-        "temp_max": 23.89
+        "temp": 14.17,
+        "pressure": 1015,
+        "humidity": 82,
+        "temp_min": 13,
+        "temp_max": 15.56
     },
-    "visibility": 10000,
+    "visibility": 7000,
     "wind": {
-        "speed": 6.2,
-        "deg": 140
+        "speed": 4.6,
+        "deg": 110
     },
     "clouds": {
-        "all": 0
+        "all": 87
     },
-    "dt": 1571058342,
+    "dt": 1571121652,
     "sys": {
         "type": 1,
-        "id": 7051,
-        "message": 0.0082,
+        "id": 6670,
+        "message": 0.006,
         "country": "SK",
-        "sunrise": 1571029493,
-        "sunset": 1571068937
+        "sunrise": 1571115923,
+        "sunset": 1571155225
     },
     "timezone": 7200,
-    "id": 3058531,
-    "name": "Nitra",
+    "id": 3059821,
+    "name": "Hurbanovo",
     "cod": 200
 }
